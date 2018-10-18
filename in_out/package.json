@@ -1,0 +1,19 @@
+{
+  "name": "in_out",
+  "version": "1.0.0",
+  "description": "This project takes a file in a specfic folder and process it to make diiferent action on it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suleman",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "forever": "^0.15.3",
+    "forever-monitor": "^1.7.1",
+    "mongoose": "^5.3.4",
+    "node-watch": "^0.5.8"
+  },
+  "devDependencies": {}
+}
